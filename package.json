@@ -1,0 +1,31 @@
+{
+  "name": "mrcoderhelps",
+  "version": "1.0.1",
+  "description": "A set of helper functions that are use my us.. in daily basis!",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://rahulzzcv.netlify.app",
+  "repository": {
+    "url": "https://github.com/rahul-bhatt43"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "helper",
+    "utility",
+    "functions",
+    "daily",
+    "common",
+    "typescript",
+    "javascript",
+    "npm-package"
+  ],
+  "author": "rahulbhatt",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.1.0",
+    "typescript": "^5.5.2"
+  }
+}

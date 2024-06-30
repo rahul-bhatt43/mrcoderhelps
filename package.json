@@ -7,7 +7,7 @@
   "types": "./dist/index.d.ts",
   "homepage": "https://rahulzzcv.netlify.app",
   "repository": {
-    "url": "https://github.com/rahul-bhatt43"
+    "url": "https://github.com/rahul-bhatt43/mrcoderhelps"
   },
   "scripts": {
     "build": "tsup"

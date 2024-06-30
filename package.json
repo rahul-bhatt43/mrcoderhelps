@@ -1,6 +1,6 @@
 {
   "name": "mrcoderhelps",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "A set of helper functions that are use my us.. in daily basis!",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
